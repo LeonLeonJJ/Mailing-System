@@ -1,0 +1,22 @@
+{
+  "name": "mailing-system",
+  "version": "1.0.0",
+  "description": "A mailing system mainly serves for disposable email service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonLeonJJ/Mailing-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonLeonJJ/Mailing-System/issues"
+  },
+  "homepage": "https://github.com/LeonLeonJJ/Mailing-System#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
